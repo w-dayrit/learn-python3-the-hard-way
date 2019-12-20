@@ -1,0 +1,1 @@
+Solutions to *Learn Python 3 the Hard Way*
